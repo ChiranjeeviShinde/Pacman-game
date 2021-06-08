@@ -308,7 +308,7 @@ function draw() {
   
   textSize(20);
   fill(255);
-  text(mouseX + "," + mouseY,700,400);
+  //text(mouseX + "," + mouseY,700,400);
   text("LIVES = " + lives,1250,60);
   text("SCORE = " + score,1200,80)
 
